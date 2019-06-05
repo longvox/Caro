@@ -1,0 +1,53 @@
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Views\LoadingScreen.baml
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Views\ChatMessage.g.cs
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Views\LoadingScreen.g.cs
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Views\MainWindow.g.cs
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\App.g.cs
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Gomoku_MarkupCompile.cache
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Gomoku_MarkupCompile.lref
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\App.baml
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\HoverButton.baml
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\ModeStyle.baml
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Views\ChatMessage.baml
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Views\MainWindow.baml
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Gomoku.g.resources
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Gomoku.pdb
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\bin\Debug\Gomoku.exe.config
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\bin\Debug\Gomoku.exe
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\bin\Debug\Gomoku.pdb
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\bin\Debug\EngineIoClientDotNet.dll
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\bin\Debug\Newtonsoft.Json.dll
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\bin\Debug\SocketIoClientDotNet.dll
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\bin\Debug\WebSocket4Net.dll
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\bin\Debug\Newtonsoft.Json.xml
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.Cache
+F:\Năm 3\Cơ sở trí tuệ nhân tạo\GOMOKU\GOMOKU-master\Gomoku\obj\Debug\Gomoku.exe
+D:\LapTrinh\Caro\Gomoku\bin\Debug\Gomoku.exe.config
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Gomoku.exe
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Gomoku.pdb
+D:\LapTrinh\Caro\Gomoku\bin\Debug\Gomoku.exe
+D:\LapTrinh\Caro\Gomoku\bin\Debug\Gomoku.pdb
+D:\LapTrinh\Caro\Gomoku\bin\Debug\EngineIoClientDotNet.dll
+D:\LapTrinh\Caro\Gomoku\bin\Debug\Newtonsoft.Json.dll
+D:\LapTrinh\Caro\Gomoku\bin\Debug\SocketIoClientDotNet.dll
+D:\LapTrinh\Caro\Gomoku\bin\Debug\WebSocket4Net.dll
+D:\LapTrinh\Caro\Gomoku\bin\Debug\Newtonsoft.Json.xml
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Views\LoadingScreen.baml
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Views\ChatMessage.g.cs
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Views\LoadingScreen.g.cs
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Views\MainWindow.g.cs
+D:\LapTrinh\Caro\Gomoku\obj\Debug\App.g.cs
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Gomoku_MarkupCompile.cache
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Gomoku_MarkupCompile.lref
+D:\LapTrinh\Caro\Gomoku\obj\Debug\App.baml
+D:\LapTrinh\Caro\Gomoku\obj\Debug\HoverButton.baml
+D:\LapTrinh\Caro\Gomoku\obj\Debug\ModeStyle.baml
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Views\ChatMessage.baml
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Views\MainWindow.baml
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Gomoku.g.resources
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+D:\LapTrinh\Caro\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.Cache
